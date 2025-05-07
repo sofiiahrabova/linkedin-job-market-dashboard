@@ -10,7 +10,10 @@ This project analyzes job postings from LinkedIn to reveal hiring trends by role
 - 🎛 Interactive filters by city, role, and company
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]
+![Dashboard Screenshot # 1](Dashboard-ScreenShot#1.png)
+![Dashboard Screenshot # 1](Dashboard-ScreenShot#3.png)
+![Dashboard Screenshot # 1](Dashboard-ScreenShot#3.png)
+
 
 ## 📁 Files Included
 - `linkedin_jobs_cleaned.csv`: Cleaned dataset
