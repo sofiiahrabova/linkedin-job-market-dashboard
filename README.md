@@ -10,8 +10,8 @@ This project analyzes job postings from LinkedIn to reveal hiring trends by role
 - 🎛 Interactive filters by city, role, and company
 
 ## 📁 Files Included
-- `linkedin_jobs_cleaned.csv`: Cleaned dataset
-- `dashboard-screenshot.png`: Final dashboard image
+- `linkedin_jobs_cleaned.xlsx`: Cleaned dataset
+- `DashboardScreenshot#1.png`: Final dashboard image
 
 ## 🧠 Summary of Insights
 - Meta is the top hiring company, with over 50 postings
