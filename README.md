@@ -36,3 +36,9 @@ This project analyzes job postings from LinkedIn to reveal hiring trends by role
 - Excel
 - GitHub
 
+---
+
+## 🔗 Back to Portfolio
+Want to see more projects?  
+👉 [View my full GitHub portfolio here](https://github.com/sofiiahrabova/sofiia-portfolio)
+
